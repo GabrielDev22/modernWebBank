@@ -11,7 +11,7 @@ export const GetStarted = () => (
               </p>
           </div>
 
-          <p className="font-poppins font-medium text-[18px] leading-[23px]"> 
+          <p className="font-poppins font-medium text-[18px] leading-[23px] mr-2 "> 
                   <span className="text-gradient">Started</span>
               </p>
       </div>

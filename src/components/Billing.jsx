@@ -1,7 +1,12 @@
+import {apple, bill, google} from "../assets";
+import styles, {layout} from "../style";
 
+export const Billing = () => (
 
-export const Billing = () => {
-  return (
-    <div>Billing</div>
-  )
-}
+  <section id="product">
+
+  </section>
+
+    
+)
+
